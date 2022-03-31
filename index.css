@@ -1,0 +1,57 @@
+body {
+  background-color: wheat;
+}
+h3::first-letter {
+  font-size: 250px;
+  color: teal;
+}
+#t{
+  text-align: center;
+  font-size: 150px;
+  font-weight: bolder;
+  text-shadow: 4px 4px 4px;
+  text-transform: uppercase;
+  color: orange;
+}
+#my-photo{
+  display: block;
+  border-radius: 70%;
+  position:relative;
+  left: 570px;
+}
+#my-photo:hover{
+  transform: scale(1.4);
+}
+.a{
+  color: teal;
+  font-size: 20px;
+  font-style: oblique;
+  text-align: center;
+}
+.me {
+  color: orange;
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+  list-style: none;
+}
+.me:hover{
+  color:teal
+}
+
+}
+#fei {
+    color:teal;
+    font-size: 20px;
+    font-style: oblique;
+  text-align: center;
+}
+#mike {
+  background-color: orange;
+  position: relative;
+  left:870px;
+  width: 200px;
+  height:50px;
+  box-shadow: 20px 20px teal;
+  font-style: italic;
+}
